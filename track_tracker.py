@@ -1,4 +1,4 @@
-times = [11.66, 11.62, 11.56, 11.56, 11.69]
+times = []
 loop = True
 event = input("Event:")
 def find_fastest(times):
