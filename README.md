@@ -7,6 +7,7 @@ A command-line Python program for logging, analyzing, and managing race times. B
 - Calculate fastest, slowest, and average time for an event
 - Menu-driven interface that runs continuously until the user exits
 - Case-insensitive input handling
+- Error handling for empty lists
 
 ## Concepts used
 Lists, functions, loops, conditionals, `while` loops, string methods, and variable scope.
